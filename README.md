@@ -82,15 +82,4 @@ Lists the required data-testid attributes and their purposes.
 ## Note:
 Provides important notes about the project, such as the fact that CSS is not tested and that data-testid attributes should not be changed.
 ## Author:
-Indicates the author of the project.
-How to Use This README.md:
-
-Copy and Paste:
-Copy the markdown code above.
-Create README.md:
-Create a file named README.md in the root directory of your project.
-Paste and Save:
-Paste the copied markdown code into the README.md file and save it.
-Edit:
-Edit the <repository-url> to the actual URL of your git repository.
-Edit "Your Name" to your name or github username.
+S.VINOD KUMAR
